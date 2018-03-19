@@ -1,0 +1,11 @@
+   html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+  }
+ .parallax-container {
+      height: 200px;
+  }
+
+  nav {
+  	height: 100px;
+
+  }
